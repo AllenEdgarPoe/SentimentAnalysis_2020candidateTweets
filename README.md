@@ -11,6 +11,10 @@ There are total of 11762 tweets. This might seem like a lot of data, but actuall
 *   Bernie Sanders: 2681 tweets <br>
 * Joe Biden: 1507 tweets <br>
 
+### Result
+![__results___37_0](https://user-images.githubusercontent.com/43398106/69126533-c95b0800-0aeb-11ea-9255-d88614581083.png)
+![__results___35_1](https://user-images.githubusercontent.com/43398106/69126535-ca8c3500-0aeb-11ea-83ae-b45b972a4a81.png)
+![__results___33_0](https://user-images.githubusercontent.com/43398106/69126537-cbbd6200-0aeb-11ea-874f-62cf57558640.png)
 
 
 

@@ -1,3 +1,4 @@
+![emoji](https://user-images.githubusercontent.com/43398106/69517855-4b8a7700-0f99-11ea-8112-295af4e15f26.gif)
 ## Sentiment Analysis on 2020 US presidential Election Candidates using Twitter Data.
 **Data Information**: Tweets from 1 Republican Party candidate(Donald Trump) and 3 Democrat Party candidates(Joe Biden, Elizabeth Warren, Bernie Sanders) <br>
 **Question**: Which Candidate is more negative on which topic? <br>
